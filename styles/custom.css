@@ -1,0 +1,40 @@
+/* custom.css */
+.text-gradient-1 {
+  background: linear-gradient(90deg, #ff512f, #dd2476);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-2 {
+  background: linear-gradient(45deg, #0a440a, #138a2e, #1ce152, #52f57e);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-3 {
+  background: linear-gradient(45deg, #8E3118, #B24926, #D96448, #F28969, #F2A37A);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-4 {
+  background: linear-gradient(45deg, #007FFF, #3399FF, #66B2FF, #99CCFF);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-5 {
+  background: linear-gradient(90deg, #c471f5, #fa71cd);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
