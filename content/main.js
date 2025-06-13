@@ -482,7 +482,9 @@ function convertToUSD(enable) {
     "td[data-label='Avg. cost']",
     "td[data-label='LTP']",
     ".value.text-red",
-    ".value.text-green"
+    ".value.text-green",
+    ".orderbook .completed-orders-wrap .average-price", 
+    ".orderbook .pending-orders-wrap .average-price"
   ];
 
   selectors.forEach(selector => {
